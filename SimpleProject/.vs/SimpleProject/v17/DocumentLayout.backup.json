@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Return_Type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Return_Type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Return_Type.c",
+              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Return_Type.c",
+              "RelativeDocumentMoniker": "Return_Type.c",
+              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Return_Type.c*",
+              "RelativeToolTip": "Return_Type.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-23T07:43:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Hello.c",
               "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Hello.c",
               "RelativeDocumentMoniker": "Hello.c",
               "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Hello.c",
               "RelativeToolTip": "Hello.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-19T05:21:05.824Z",
               "EditorCaption": ""
