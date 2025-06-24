@@ -1,3 +1,2 @@
-﻿  Return_Type.c
-C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Return_Type.c(3,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  input.c
   SimpleProject.vcxproj -> C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\x64\Debug\SimpleProject.exe

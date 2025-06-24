@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hello.c">
+    <ClCompile Include="Sum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Return_Type.c">
+    <ClCompile Include="input.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
