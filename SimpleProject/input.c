@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void)
+int main3(void)
 {
 	int num1, num2, num3;
 	int result;

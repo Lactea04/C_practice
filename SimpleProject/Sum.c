@@ -1,4 +1,4 @@
-int main3(void)
+int main5(void)
 {
 	int num1 = 4;
 	int num2 = 5;

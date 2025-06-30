@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="input.c">
+    <ClCompile Include="Data_Expression.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
