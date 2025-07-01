@@ -1,3 +1,71 @@
-﻿  Data_Expression.c
-C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_Expression.c(78,10): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+﻿  Data_type.c
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(9,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(10,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(11,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(13,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(14,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(15,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(16,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(17,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(18,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(26,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(26,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(27,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(27,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(28,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(29,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(33,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(33,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\Data_type.c(34,1): warning C4716: 'num_Size': 값을 반환해야 합니다.
   SimpleProject.vcxproj -> C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\x64\Debug\SimpleProject.exe

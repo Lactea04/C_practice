@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Data_Expression.c">
+    <ClCompile Include="Data_type.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

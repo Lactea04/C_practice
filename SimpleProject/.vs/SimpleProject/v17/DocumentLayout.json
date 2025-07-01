@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_Expression.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Data_Expression.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Data_type.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Data_Expression.c",
-              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_Expression.c",
-              "RelativeDocumentMoniker": "Data_Expression.c",
-              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_Expression.c",
-              "RelativeToolTip": "Data_Expression.c",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
+              "Title": "Data_type.c",
+              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_type.c",
+              "RelativeDocumentMoniker": "Data_type.c",
+              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Data_type.c",
+              "RelativeToolTip": "Data_type.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-30T00:24:22.144Z",
+              "WhenOpened": "2025-07-01T00:34:46.13Z",
               "EditorCaption": ""
             }
           ]
