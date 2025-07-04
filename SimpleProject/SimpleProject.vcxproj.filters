@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="scan_print.c">
+    <ClCompile Include="Repetitive_Sentence.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
