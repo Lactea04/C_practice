@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Repetitive_Sentence.c">
+    <ClCompile Include="Conditional_Sentence.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
