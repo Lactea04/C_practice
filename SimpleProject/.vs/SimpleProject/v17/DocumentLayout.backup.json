@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Conditional_Sentence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Conditional_Sentence.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conditional_Sentence.c",
-              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Conditional_Sentence.c",
-              "RelativeDocumentMoniker": "Conditional_Sentence.c",
-              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Conditional_Sentence.c",
-              "RelativeToolTip": "Conditional_Sentence.c",
-              "ViewState": "AgIAAGEAAAAAAAAAAADwv3YAAAAKAAAAAAAAAA==",
+              "Title": "function.c",
+              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\function.c",
+              "RelativeDocumentMoniker": "function.c",
+              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\function.c",
+              "RelativeToolTip": "function.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-07T01:07:04.569Z",
+              "WhenOpened": "2025-07-08T04:04:33.317Z",
               "EditorCaption": ""
             }
           ]
