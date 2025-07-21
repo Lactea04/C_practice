@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0026Arrangement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Pointer\u0026Arrangement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pointer.c",
-              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer.c",
-              "RelativeDocumentMoniker": "Pointer.c",
-              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer.c",
-              "RelativeToolTip": "Pointer.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Title": "Pointer\u0026Arrangement.c",
+              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0026Arrangement.c",
+              "RelativeDocumentMoniker": "Pointer\u0026Arrangement.c",
+              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0026Arrangement.c",
+              "RelativeToolTip": "Pointer\u0026Arrangement.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-16T00:19:27.7Z",
+              "WhenOpened": "2025-07-21T00:01:07.535Z",
               "EditorCaption": ""
             }
           ]
