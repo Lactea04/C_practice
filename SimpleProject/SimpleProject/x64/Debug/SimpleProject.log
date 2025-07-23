@@ -1,2 +1,10 @@
-﻿  Pointer&Arrangement.c
+﻿  MultipleDemensionArrangement.c
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\MultipleDemensionArrangement.c(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\MultipleDemensionArrangement.c(7,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\MultipleDemensionArrangement.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\MultipleDemensionArrangement.c(8,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
   SimpleProject.vcxproj -> C:\Users\kimtg\OneDrive\Desktop\C_project\C_practice\SimpleProject\x64\Debug\SimpleProject.exe
