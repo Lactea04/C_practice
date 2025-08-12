@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pointer%27sPointer.c">
+    <ClCompile Include="MultipleDemensionArrang&amp;PointerType.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

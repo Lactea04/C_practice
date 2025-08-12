@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0027sPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:Pointer\u0027sPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\MultipleDemensionArrang\u0026PointerType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB9F311F-21BB-4A3F-8914-D620B4DFB6FD}|SimpleProject.vcxproj|solutionrelative:MultipleDemensionArrang\u0026PointerType.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pointer\u0027sPointer.c",
-              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0027sPointer.c",
-              "RelativeDocumentMoniker": "Pointer\u0027sPointer.c",
-              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\Pointer\u0027sPointer.c",
-              "RelativeToolTip": "Pointer\u0027sPointer.c",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Title": "MultipleDemensionArrang\u0026PointerType.c",
+              "DocumentMoniker": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\MultipleDemensionArrang\u0026PointerType.c",
+              "RelativeDocumentMoniker": "MultipleDemensionArrang\u0026PointerType.c",
+              "ToolTip": "C:\\Users\\kimtg\\OneDrive\\Desktop\\C_project\\C_practice\\SimpleProject\\MultipleDemensionArrang\u0026PointerType.c",
+              "RelativeToolTip": "MultipleDemensionArrang\u0026PointerType.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-07T03:59:02.553Z",
+              "WhenOpened": "2025-08-12T05:20:50.705Z",
               "EditorCaption": ""
             }
           ]
